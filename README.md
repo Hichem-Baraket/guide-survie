@@ -37,7 +37,7 @@ Ajoutez votre ligne à la fin de cette liste, en respectant le format.
 ```html
 - Lilia Sfaxi — enseignante
 
-<!-- ===== AJOUTEZ VOTRE NOM CI-DESSOUS ===== -->
+<!-- ===== Hichem Baraket - étudiant ===== -->
 
 <!-- ===== FIN DES CONTRIBUTEURS ===== -->
 ```
